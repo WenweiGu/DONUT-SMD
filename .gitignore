@@ -1,8 +1,0 @@
-.idea
-.cache
-*.iml
-/debug.py
-/.coverage
-*.pyc
-.DS_Store
-*.*~
