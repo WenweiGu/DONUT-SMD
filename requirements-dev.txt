@@ -1,0 +1,5 @@
+-r requirements.txt
+
+mock >= 2.0.0
+pytest >= 3.0
+tensorflow >= 1.5.0
