@@ -1,4 +1,4 @@
-# MSCRED-SMD
+# DONUT-SMD
 original reference linking：https://github.com/NetManAIOps/donut
 
 step1：install dependency
